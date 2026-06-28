@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
