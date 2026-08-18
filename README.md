@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3620-network-recovery-pathways) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
