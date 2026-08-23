@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0002-add-two-numbers) |
+| [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
