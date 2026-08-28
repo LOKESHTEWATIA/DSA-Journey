@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0005-longest-palindromic-substring) |
 | [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0005-longest-palindromic-substring) |
 | [1301-number-of-paths-with-max-score](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3620-network-recovery-pathways) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0005-longest-palindromic-substring) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
