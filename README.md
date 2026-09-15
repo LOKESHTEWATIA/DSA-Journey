@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1301-number-of-paths-with-max-score) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0005-longest-palindromic-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
