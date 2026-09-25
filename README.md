@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1096-brace-expansion-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3498-reverse-degree-of-a-string) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LOKESHTEWATIA/the-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LOKESHTEWATIA/the-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -170,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOKESHTEWATIA/the-journey/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/LOKESHTEWATIA/the-journey/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
